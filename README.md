@@ -1,6 +1,6 @@
-# CS236 Class Project
+# Spark-analyzation
 
-## Student information
+## Information
 
 * Full name:
 ```
@@ -9,14 +9,6 @@ Yaming Zhang
 * E-mail:
 ```
 yzhan737@ucr.edu
-```
-* UCR NetID:
-```
-yzhan737
-```
-* Student ID:
-```
-X674002
 ```
 
 ## Prerequisites
